@@ -1,0 +1,5 @@
+com\currencyconverter\AppConfig.class
+com\currencyconverter\CurrencyController.class
+com\currencyconverter\CurrencyRequest.class
+com\currencyconverter\CurrencyConverterApplication.class
+com\currencyconverter\CurrencyService.class
